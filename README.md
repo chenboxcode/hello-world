@@ -1,2 +1,1 @@
-# hello-world
-a new start.
+This file is in branch, not main.
